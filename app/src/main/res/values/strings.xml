@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Truyenii</string>
+    <string name="Open">Truyenii</string>
+    <string name="Close">Truyenii</string>
+    <string name="myactivityname">Bar</string>
+    <string name="btn1">Truyện tranh</string>
+    <string name="btn2">Truyện chữ</string>
+    <string name="title_activity_main3">Main3Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+</resources>
